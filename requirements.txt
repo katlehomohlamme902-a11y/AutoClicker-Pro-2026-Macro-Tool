@@ -1,0 +1,6 @@
+lxml
+pymem
+psutil
+win32api
+pillow
+opencv-python
